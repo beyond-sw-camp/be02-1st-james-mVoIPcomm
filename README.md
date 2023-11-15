@@ -11,9 +11,7 @@ I'm considering to develop a Platform that could communicate with another client
 <br><br>
 
 # Requirements
-```sh
 https://docs.google.com/spreadsheets/d/18cXIPFbeEM7aB4ki7lyXQuIr28b8Ep1Drfd-W84Z08U/edit?usp=sharing
-```
 <br><br>
 
 # Sevice Conceptual Diagram 
