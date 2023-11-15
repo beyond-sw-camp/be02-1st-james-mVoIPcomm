@@ -1,5 +1,5 @@
 # Project. ON:Do
-<img src="https://capsule-render.vercel.app/api?type=wave&color="CC0000"&height=30&section=header"> 
+<img src="https://capsule-render.vercel.app/api?type=wave&color="CC0000"&height=30&section=header"> </img>
 
 # Team
 * james (owner)
