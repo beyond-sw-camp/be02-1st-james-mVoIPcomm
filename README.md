@@ -1,13 +1,17 @@
-# Here comes new Challenger...
+# Project. ON:Do
  
 
-# Name
-* james
+# Team
+* james (owner)
 
 
-# me?
- <img src="/img/Iron_Man.jpg"></img>
+# Intro 
+I'm considering to develop a Platform that could communicate with another client via VoIP technology.
+
+# User Flow 
 
 
-# Project? 
-Maybe I gonna do my project by myself alone.
+# ERD
+
+# DB Design 
+
