@@ -1,6 +1,5 @@
 <center><H2><font color="1e90ff">Project. ON:Do</font></H2></center><br><br><br>
 
-<P>
 # Project Owner
 * james (Team 7)
 <br><br><br>
