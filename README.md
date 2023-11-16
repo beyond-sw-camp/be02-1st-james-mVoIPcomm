@@ -20,10 +20,9 @@ https://docs.google.com/spreadsheets/d/18cXIPFbeEM7aB4ki7lyXQuIr28b8Ep1Drfd-W84Z
 
 
 # ERD
-
+<img src="/img/james_ERD.png"></img>
 <br><br>
 
 # DB Design 
-
 <br><br>
 
