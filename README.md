@@ -6,7 +6,7 @@
 
 # Intro.
 ```sh
-I'm considering to develop a Platform that could communicate with another client via VoIP technology.
+I'm considering to develop a Platform that could communicate with another client via VoIP technology.(feat. webRTC)
 ```
 <br><br>
 
